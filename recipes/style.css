@@ -32,7 +32,8 @@ p {
     text-align: left;
 }
 
-ul {
+ul,
+ol {
     font-size: 30px;
     background-color: #992200;
     color: white;
