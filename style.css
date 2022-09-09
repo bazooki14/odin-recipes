@@ -5,3 +5,9 @@ h1 {
     font-family: Calibri, sans-serif;
     font-size: 100px
 }
+
+.mainlist {
+    text-align: center;
+    font-size: 65px;
+    color: #ffff00
+}
