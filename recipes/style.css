@@ -16,3 +16,18 @@ h3 {
     color: #99330090;
     font-family: Georgia, serif;
 }
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: left;
+    color: #992200;
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 50;
+    font-family: Garamond, serif;
+    text-align: left;
+}
